@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\学生成绩管理系统\GradeManage\bin\GradeManage.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\学生成绩管理系统\GradeManage\bin\GradeManage.dll
+c:\users\administrator\documents\visual studio 2013\Projects\学生成绩管理系统\GradeManage\bin\GradeManage.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\学生成绩管理系统\GradeManage\obj\Debug\GradeManage.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\学生成绩管理系统\GradeManage\obj\Debug\GradeManage.dll
+c:\users\administrator\documents\visual studio 2013\Projects\学生成绩管理系统\GradeManage\obj\Debug\GradeManage.pdb
+F:\Backup\学生成绩管理系统（C#）\学生成绩管理系统\GradeManage\bin\GradeManage.dll.config
+F:\Backup\学生成绩管理系统（C#）\学生成绩管理系统\GradeManage\bin\GradeManage.dll
+F:\Backup\学生成绩管理系统（C#）\学生成绩管理系统\GradeManage\bin\GradeManage.pdb
+F:\Backup\学生成绩管理系统（C#）\学生成绩管理系统\GradeManage\obj\Debug\GradeManage.csprojResolveAssemblyReference.cache
+F:\Backup\学生成绩管理系统（C#）\学生成绩管理系统\GradeManage\obj\Debug\GradeManage.dll
+F:\Backup\学生成绩管理系统（C#）\学生成绩管理系统\GradeManage\obj\Debug\GradeManage.pdb
