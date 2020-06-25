@@ -1,4 +1,4 @@
-# GradeManage
+# Grade Management
 学生成绩管理系统
 
 1、开发环境：
