@@ -60,3 +60,5 @@
 		- SqlHelper.cs	//将连接SQL数据库的冗余代码的几个方法封装成类
 		- Web.config	//配置文件
 
+# License
+[Apache License 2.0](https://github.com/ryanecat/grade-management/blob/master/LICENSE)
