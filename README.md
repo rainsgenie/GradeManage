@@ -1,4 +1,4 @@
-# Grade Management sys
+# Grade Management
 
 1. Environment
 
@@ -10,7 +10,7 @@
 
 		default username: sa, password: 123456
 
-3. Login at Login.aspx
+3. Login by Login.aspx
 
 		Admin: 10000/10000
 		Teacher: 10001/zjy，10002/yzk
